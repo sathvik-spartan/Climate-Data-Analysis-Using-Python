@@ -152,7 +152,7 @@ Open the notebook file and execute the cells sequentially to reproduce the analy
 
 ## Future Work
 
-Potential enhancements for this project include:
+Potential enhancements for this mini project include:
 
 * Integration of larger and real-time climate datasets.
 * Development of predictive climate models.
@@ -163,12 +163,6 @@ Potential enhancements for this project include:
 
 ## Conclusion
 
-This project demonstrates the use of Python for climate data analysis and visualization. Through systematic data preprocessing, exploratory analysis, and statistical investigation, meaningful insights can be extracted from climate datasets to support environmental understanding and decision-making.
+This project demonstrates the use of Python3 for climate data analysis and visualization. Through systematic data preprocessing, exploratory analysis, and statistical investigation, meaningful insights can be extracted from climate datasets to support environmental understanding and decision-making.
 
 ---
-
-## Author
-
-Sathvik Reddy
-
-GitHub: https://github.com/sathvik-spartan
